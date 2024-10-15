@@ -1,0 +1,1 @@
+This script will log the display name of the user who is currently running the background script to the console. You can replace the gs.info() statement with any other action you want to take based on the user's identity.
