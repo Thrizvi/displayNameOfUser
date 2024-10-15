@@ -1,0 +1,2 @@
+var currentUserName = gs.getUser().displayName;
+gs.info('Current user: ' + currentUserName);
